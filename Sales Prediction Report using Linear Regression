@@ -1,0 +1,41 @@
+📊 Sales Prediction Report using Linear Regression
+📁 Dataset
+The dataset contains historical sales transactions, including fields such as ORDERDATE, SALES, PRODUCTLINE, QUANTITYORDERED, and more. The dataset spans several months across different product lines and regions.
+
+🎯 Objective
+The goal of this project is to predict the next month's sales using Linear Regression based on historical data. This prediction will support better decision-making in inventory planning and marketing strategy.
+
+🧠 Methodology
+Cleaned and pre-processed the dataset using Python & Pandas.
+
+Built a Linear Regression model to understand the relationship between date and sales.
+
+Predicted the sales for the upcoming month.
+
+Imported the results into Power BI for visualization and interpretation.
+
+📈 Key Visuals in Power BI
+Time-series line chart showing sales over months.
+
+Actual vs Predicted sales comparison.
+
+Filters for year, product line, and region.
+
+📌 Insights
+Sales are increasing in specific quarters, especially Q4.
+
+The prediction shows a potential rise/decline in the upcoming month depending on recent trends.
+
+Certain product lines contribute more to overall revenue.
+
+🧩 Decision Support
+This dashboard can help:
+
+Plan stock replenishment before high demand months.
+
+Adjust marketing efforts for underperforming product lines.
+
+Align business strategies based on forecasted trends.
+
+📎 Prepared by: Naif Almutairi
+🔗 Project Repository: GitHub Project
